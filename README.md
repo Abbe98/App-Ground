@@ -1,4 +1,4 @@
-App-Ground
+App Ground
 ==========
 
 App Ground is a template/boilerplate for javascript/HTML5 web apps. It's optimized for "one-page" webapps with offline support but it can easily be customized for other purposes.
