@@ -1,3 +1,5 @@
 AddType text/cache-manifest .appcache
 
+
+Options -MultiViews
 ErrorDocument 404 /404.html
