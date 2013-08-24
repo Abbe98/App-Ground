@@ -24,11 +24,11 @@
 
 /* Responsive Help Classes */
 
-.visible-phone, .visible-tablet, .visible-desktop .visible-bigscreen{
+.visible-phone, .visible-tablet, .visible-desktop, .visible-largescreen{
   display: none;
 }
 
-/* Mobile */
+/* Phone */
 @media only screen and (max-width: 767px) {
   
   .hidden-phone{
@@ -38,9 +38,10 @@
   .visible-phone{
     display: inline;
   }
+  
 }
 
-/* Taablet */
+/* Tablet */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
   
   .hidden-tablet{
@@ -50,6 +51,7 @@
   .visible-tablet{
     display: inline;
   }
+  
 }
 
 /* Desktop */
@@ -64,14 +66,14 @@
   }
 }
 
-/* Big Screen */
+/* Large Screen */
 @media only screen and (min-width: 1200px) {
   
-  .hidden-bigscreen{
+  .hidden-largescreen{
     display: none;
   }
   
-  .visible-bigscreen{
+  .visible-largescreen{
     display: inline;
   }
 }
