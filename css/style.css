@@ -1,25 +1,39 @@
 .pull-right {
-  float: right;
+	float: right;
 }
 
 .pull-left {
-  float: left;
-}
-
-.text-left {
-  text-align: left;
-}
-
-.text-right {
-  text-align: right;
+	float: left;
 }
 
 .text-center {
-  text-align: center;
+	text-align: center;
+}
+
+.text-right{
+	text-align: right;
+}
+
+.text-left{
+	text-align: left;
+}
+
+.pos-rel {
+	position: relative;
+}
+.pos-abs {
+	position: absolute;
+}
+.pos-fix {
+	position: fixed;
 }
 
 .hidden {
-  display: none;
+	visibility: hidden;
+}
+
+.no-display {
+	display: none;
 }
 
 /* Responsive Help Classes */
@@ -76,4 +90,38 @@
   .visible-largescreen{
     display: inline;
   }
+}
+
+@media all {
+	.page-break	{
+		display: none;
+	}
+
+	.visible-print {
+		display: none;
+	}
+}
+
+@media print {
+	@page {
+		margin: 0.5cm;
+	}
+
+	a,
+	a:visited {
+		text-decoration: underline;
+	}
+
+	.page-break	{
+		display: block;
+		page-break-before: always;
+	}
+
+	.visible-print {
+		display: inline;
+	}
+
+	.hidden-print {
+		display: none;
+	}
 }
