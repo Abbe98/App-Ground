@@ -4,8 +4,9 @@ CACHE MANIFEST
 
 #css
 css/style.css
+css/print.css
 css/normalize.css
 
 #js
 js/jquery-2.0.3.min.js
-js/app.js
+js/help.js
