@@ -5,7 +5,7 @@
 * Removed comments in Normalice.css.
 * Added Facile Framework reference in stylesheets.
 * Moved print styles to [`print.css`](https://github.com/Abbe98/App-Ground/blob/master/css).
-* Removed support for Chrome Frame [see](http://blog.chromium.org/2013/06/retiring-chrome-frame.html).
+* Removed support for Chrome Frame see: [Retiring Chrome Frame the Chromium blog](http://blog.chromium.org/2013/06/retiring-chrome-frame.html).
 * Replaced `app.js` with `help.js`.
 * `help.js` can now detect touch support.
 * `help.js` can now detect landscape/portrait orientation.
