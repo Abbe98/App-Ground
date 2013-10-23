@@ -1,5 +1,8 @@
 ### App Ground(stable) CHANGELOG 
 
+### 1.1.1 (October 24, 2013)
+* Adding support for "Add to homescreen"(Chrome for Android) [see](https://developers.google.com/chrome/mobile/docs/installtohomescreen).
+
 ### 1.1.0 (October 13, 2013)
 * Update Normalize.css to 2.1.3.
 * Removed comments in Normalice.css.
