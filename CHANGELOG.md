@@ -7,6 +7,7 @@
 * Remove some comments in Normalize.		DONE!
 * Add META msapplication-tileimage		DONE!
 * Add META msapplication-tilecolor		DONE!
+* Minor changes to AppChache		DONE!
 * Add META apple-mobile-app-capable
 
 ### 1.1.1 (October 24, 2013)
