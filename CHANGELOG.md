@@ -2,8 +2,8 @@
 
 ### 1.1.2 TODO:
 * Drop print styles		DONE!
-* Drop Google CDN
-* Add jQuery source map?
+* Drop Google CDN		DONE!
+* Add jQuery source map		DONE!
 * Add META msapplication-tileimage
 * Add META msapplication-tilecolor
 * Add META apple-mobile-app-capable

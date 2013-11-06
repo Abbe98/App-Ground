@@ -8,4 +8,5 @@ css/normalize.css
 
 #js
 js/jquery-2.0.3.min.js
+js/jquery-2.0.3.min.map
 js/help.js
