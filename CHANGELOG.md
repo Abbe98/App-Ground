@@ -8,7 +8,7 @@
 * Add META msapplication-tileimage		DONE!
 * Add META msapplication-tilecolor		DONE!
 * Minor changes to AppChache		DONE!
-* Add META apple-mobile-app-capable
+* Add META apple-mobile-web-app-capable		DONE!
 
 ### 1.1.1 (October 24, 2013)
 * Adding support for "Add to homescreen"(Chrome for Android) [see](https://developers.google.com/chrome/mobile/docs/installtohomescreen).
