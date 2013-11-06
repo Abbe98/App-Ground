@@ -4,9 +4,9 @@
 * Drop print styles		DONE!
 * Drop Google CDN		DONE!
 * Add jQuery source map		DONE!
-* Remove some comments in Normalize.
-* Add META msapplication-tileimage
-* Add META msapplication-tilecolor
+* Remove some comments in Normalize.		DONE!
+* Add META msapplication-tileimage		DONE!
+* Add META msapplication-tilecolor		DONE!
 * Add META apple-mobile-app-capable
 
 ### 1.1.1 (October 24, 2013)

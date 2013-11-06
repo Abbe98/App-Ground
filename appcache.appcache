@@ -6,6 +6,9 @@ CACHE MANIFEST
 css/style.css
 css/normalize.css
 
+#icons
+ms-tile-icon-144x144.png
+
 #js
 js/jquery-2.0.3.min.js
 js/jquery-2.0.3.min.map
