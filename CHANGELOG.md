@@ -4,6 +4,7 @@
 * Drop print styles		DONE!
 * Drop Google CDN		DONE!
 * Add jQuery source map		DONE!
+* Remove some comments in Normalize.
 * Add META msapplication-tileimage
 * Add META msapplication-tilecolor
 * Add META apple-mobile-app-capable
