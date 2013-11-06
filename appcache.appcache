@@ -4,7 +4,6 @@ CACHE MANIFEST
 
 #css
 css/style.css
-css/print.css
 css/normalize.css
 
 #js

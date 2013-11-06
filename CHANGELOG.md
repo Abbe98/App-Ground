@@ -1,7 +1,7 @@
 ### App Ground(develop) CHANGELOG 
 
 ### 1.1.2 TODO:
-* Drop print styles
+* Drop print styles		DONE!
 * Drop Google CDN
 * Add jQuery source map?
 * Add META msapplication-tileimage
