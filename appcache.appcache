@@ -4,9 +4,14 @@ CACHE MANIFEST
 
 #css
 css/style.css
-css/print.css
 css/normalize.css
+
+#icons
+ms-tile-icon-144x144.png
+apple-touch-icon-144x144.png
+chrome-icon-196x196.png
 
 #js
 js/jquery-2.0.3.min.js
+js/jquery-2.0.3.min.map
 js/help.js
