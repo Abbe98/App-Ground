@@ -1,6 +1,6 @@
 ### App Ground CHANGELOG 
 
-### 1.2.0
+### 1.2.0 (December 16, 2013)
 * Dropped print styles
 * Dropped Google CDN
 * Added jQuery source map
