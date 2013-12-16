@@ -1,14 +1,14 @@
-### App Ground(develop) CHANGELOG 
+### App Ground CHANGELOG 
 
-### 1.1.2 TODO:
-* Drop print styles		DONE!
-* Drop Google CDN		DONE!
-* Add jQuery source map		DONE!
-* Remove some comments in Normalize.		DONE!
-* Add META msapplication-tileimage		DONE!
-* Add META msapplication-tilecolor		DONE!
-* Minor changes to AppChache		DONE!
-* Add META apple-mobile-web-app-capable		DONE!
+### 1.2.0
+* Dropped print styles
+* Dropped Google CDN
+* Added jQuery source map
+* Removed some comments in Normalize.
+* Added META msapplication-tileimage
+* Added META msapplication-tilecolor
+* Minor changes to AppChache
+* Added META apple-mobile-web-app-capable
 
 ### 1.1.1 (October 24, 2013)
 * Adding support for "Add to homescreen"(Chrome for Android) [see](https://developers.google.com/chrome/mobile/docs/installtohomescreen).
