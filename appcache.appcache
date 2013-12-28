@@ -7,9 +7,12 @@ css/style.css
 css/normalize.css
 
 #icons
-ms-tile-icon-144x144.png
 apple-touch-icon-144x144.png
 chrome-icon-196x196.png
+img/smalltile.png
+img/mediumtile.png
+img/widetile.png
+img/largetile.png
 
 #js
 js/jquery-2.0.3.min.js
