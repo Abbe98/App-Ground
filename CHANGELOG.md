@@ -1,11 +1,8 @@
 ### App Ground CHANGELOG 
 
-<<<<<<< HEAD
-=======
 ### 1.2.1 (December 29, 2013)
 * Added `browserconfig.xml` for Internet Explorer 11.
 
->>>>>>> origin/develop
 ### 1.2.0 (December 16, 2013)
 * Dropped print styles
 * Dropped Google CDN
