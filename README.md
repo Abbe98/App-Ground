@@ -1,10 +1,7 @@
 App Ground
 ==========
-<<<<<<< HEAD
-Current version: 1.2.0 [CHANGELOG](https://github.com/Abbe98/App-Ground/blob/master/CHANGELOG.md)
-=======
+
 Current version: 1.2.1 [CHANGELOG](https://github.com/Abbe98/App-Ground/blob/master/CHANGELOG.md)
->>>>>>> origin/develop
 
 App Ground is a lightweight template/boilerplate for javascript/HTML5 web apps. It works in all major modern browsers and will kickstart your HTML5 app development.
 
