@@ -69,9 +69,3 @@ p {
 		font-size: 5rem;
 	}
 }
-
-/* TEMP */
-.box.disabled:hover, .box.disabled:focus, .box.disabled {
-	cursor: default;
-	background: #e67e22;
-}
