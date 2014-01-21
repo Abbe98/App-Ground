@@ -7,8 +7,8 @@ css/style.css
 css/normalize.css
 
 #icons
-apple-touch-icon-144x144.png
-chrome-icon-196x196.png
+img/apple-touch-icon-144x144.png
+img/chrome-icon-196x196.png
 img/smalltile.png
 img/mediumtile.png
 img/widetile.png
@@ -17,4 +17,5 @@ img/largetile.png
 #js
 js/jquery-2.0.3.min.js
 js/jquery-2.0.3.min.map
-js/help.js
+js/jquery.hotkeys.min.js
+js/modernizr-2.7.1.min.js

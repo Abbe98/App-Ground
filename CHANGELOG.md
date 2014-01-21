@@ -1,5 +1,16 @@
 ### App Ground CHANGELOG 
 
+### 1.3.0 (January 21, 2014)
+* Added jQuery hotkeys plugin.
+* Dropped `help.js` in favor of Modernizr.
+* Added support for Twitter cards.
+* Fixed Facile Framework related CSS bug(responsive help classes).
+* Dropped `404.html` page.
+* Moved all icons to `img/`.
+* Updated Normalize.css with latest tweeks.
+* Dropped the "position" CSS help classes.
+* Dropped default Apache support.
+
 ### 1.2.1 (December 29, 2013)
 * Added `browserconfig.xml` for Internet Explorer 11.
 

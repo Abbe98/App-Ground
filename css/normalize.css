@@ -17,6 +17,7 @@ summary {
 
 audio,
 canvas,
+progress,
 video {
 	display: inline-block;
 }
@@ -26,8 +27,7 @@ audio:not([controls]) {
 	height: 0;
 }
 
-[hidden],
-template {
+[hidden], template {
 	display: none;
 }
 
@@ -49,8 +49,7 @@ a:focus {
 	outline: thin dotted;
 }
 
-a:active,
-a:hover {
+a:active, a:hover {
 	outline: 0;
 }
 
@@ -63,8 +62,7 @@ abbr[title] {
 	border-bottom: 1px dotted;
 }
 
-b,
-strong {
+b, strong {
 	font-weight: bold;
 }
 
@@ -128,12 +126,13 @@ svg:not(:root) {
 }
 
 figure {
-	margin: 0;
+	margin: 1em 40px;
 }
 
 fieldset {
 	border: 1px solid #c0c0c0;
 	margin: 0 2px;
+	min-width: 0;
 	padding: 0.35em 0.625em 0.75em;
 }
 
@@ -144,11 +143,16 @@ legend {
 
 button,
 input,
+optgroup,
 select,
 textarea {
-	font-family: inherit;
-	font-size: 100%;
+	color: inherit;
+	font: inherit;
 	margin: 0;
+}
+
+optgroup {
+	font-weight: bold;
 }
 
 button,
@@ -206,4 +210,8 @@ textarea {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+}
+
+td, th {
+	padding: 0;
 }

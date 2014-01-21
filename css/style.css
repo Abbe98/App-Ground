@@ -11,22 +11,12 @@
 	text-align: center;
 }
 
-.text-right{
+.text-right {
 	text-align: right;
 }
 
-.text-left{
+.text-left {
 	text-align: left;
-}
-
-.pos-rel {
-	position: relative;
-}
-.pos-abs {
-	position: absolute;
-}
-.pos-fix {
-	position: fixed;
 }
 
 .hidden {
@@ -39,57 +29,54 @@
 
 /* Responsive Help Classes */
 
-.visible-phone,
-.visible-tablet,
-.visible-desktop,
-.visible-largescreen {
+.visible-phone, .visible-tablet, .visible-desktop, .visible-largescreen {
 	display: none;
 }
 
 /* Phone */
 @media only screen and (max-width: 767px) {
-	
-	.hidden-phone{
-		display: none; 
+
+	.hidden-phone {
+		display: none;
 	}
-	
-	.visible-phone{
+
+	.visible-phone {
 		display: inline;
 	}
 }
 
 /* Tablet */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
-	
-	.hidden-tablet{
-	display: none;
+
+	.hidden-tablet {
+		display: none;
 	}
-	
-	.visible-tablet{
+
+	.visible-tablet {
 		display: inline;
 	}
 }
 
 /* Desktop */
 @media only screen and (min-width: 960px) and (max-width: 1199px) {
-	
-	.hidden-desktop{
+
+	.hidden-desktop {
 		display: none;
 	}
-	
-	.visible-desktop{
+
+	.visible-desktop {
 		display: inline;
 	}
 }
 
 /* Large Screen */
 @media only screen and (min-width: 1200px) {
-	
-	.hidden-largescreen{
+
+	.hidden-largescreen {
 		display: none;
 	}
-	
-	.visible-largescreen{
+
+	.visible-largescreen {
 		display: inline;
 	}
 }
