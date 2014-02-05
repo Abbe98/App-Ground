@@ -1,5 +1,8 @@
 ### App Ground CHANGELOG 
 
+### 1.3.1 (February 05, 2014)
+* added `lang` attribute to `index.html`.
+
 ### 1.3.0 (January 21, 2014)
 * Added jQuery hotkeys plugin.
 * Dropped `help.js` in favor of Modernizr.
