@@ -1,5 +1,8 @@
 ### App Ground CHANGELOG 
 
+### 1.3.2 (February 14, 2014)S
+* minor fix to self closing tags in `index.html`.
+
 ### 1.3.1 (February 05, 2014)
 * added `lang` attribute to `index.html`.
 

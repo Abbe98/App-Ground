@@ -1,6 +1,6 @@
 App Ground
 ==========
-Current version: 1.3.1 [CHANGELOG](https://github.com/Abbe98/App-Ground/blob/master/CHANGELOG.md)
+Current version: 1.3.2 [CHANGELOG](https://github.com/Abbe98/App-Ground/blob/master/CHANGELOG.md)
 
 App Ground is a optimized template for high end web apps. It works in all major modern browsers and will kickstart your HTML5 app development.
 
