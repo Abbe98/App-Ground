@@ -1,6 +1,8 @@
 ### App Ground CHANGELOG 
+### 1.3.3 (March 30, 2014)
+* Updated Normalize.css to 3.0.1.
 
-### 1.3.2 (February 14, 2014)S
+### 1.3.2 (February 14, 2014)
 * minor fix to self closing tags in `index.html`.
 
 ### 1.3.1 (February 05, 2014)
